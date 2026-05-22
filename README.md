@@ -35,7 +35,7 @@ Built through experimentation, self-learning, and AI-assisted development.
 
 ---
 
-## Why PaperFold?
+## Why imposition-studio?
 
 Most imposition software is either:
 - too expensive,
@@ -76,7 +76,7 @@ PaperFold is designed for:
 
 ## Privacy
 
-PaperFold runs entirely inside your browser.
+imposition-studio runs entirely inside your browser.
 
 No files are uploaded.  
 No analytics.  
@@ -89,7 +89,7 @@ No tracking.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/paperfold.git
+[git clone https://github.com/yourusername/paperfold.git](https://github.com/skfirojali/imposition-studio)
 ```
 
 Open `index.html` in your browser.
@@ -102,8 +102,8 @@ Add your GitHub Pages link here.
 
 Example:
 
-```txt
-https://yourusername.github.io/paperfold
+```txt[
+https://yourusername.github.io/paperfold](https://hay.firojali.in/Deskmart_Imposition_v5.html)
 ```
 
 ---
@@ -130,7 +130,7 @@ If you find bugs or want new layout templates, feel free to open an issue.
 
 ## License
 
-MIT License
+GNU General Public License v3.0
 
 ---
 
